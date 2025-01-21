@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Buzebu
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning java
 - 📫 How to reach me by discord buzebu
-- 😄 Pronouns: he/him/they/them
+- 😄 Pronouns: whatever you want
 
 <!---
 Buzebu/Buzebu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
